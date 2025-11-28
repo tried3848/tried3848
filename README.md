@@ -1,6 +1,4 @@
-![GitHub](https://raw.githubusercontent.com/tried3848/README/main/free-icon-github-2111432.png)
-![Discord](https://raw.githubusercontent.com/tried3848/README/main/free-icon-game-14919693.png)
-![charp](https://raw.githubusercontent.com/tried3848/README/main/free-icon-file-14788161.png)
+
 # 🇷🇺 Малетин Алекей Дмитриевич
 > [!NOTE]
 📘 _Тут буду мои работы(за частую по МДК 02.02) по практическим (тесты и т.п.)_\
