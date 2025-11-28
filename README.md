@@ -1,4 +1,4 @@
-![GitHub](https://github.com/tried3848/tried3848/main/free-icon-github-2111432.png)
+![GitHub](https://raw.githubusercontent.com/tried3848/tried3848/main/images/free-icon-github-2111432.png)
 ![Discord](https://github.com/tried3848/tried3848/main/free-icon-game-14919693.png)
 ![charp](https://github.com/tried3848/tried3848/main/free-icon-file-14788161.png)
 # 🇷🇺 Малетин Алекей Дмитриевич
