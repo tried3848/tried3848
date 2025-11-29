@@ -37,7 +37,7 @@
 
 [ПР11](https://github.com/tried3848/megasupersite)
 
-[ПР12](https://github.com/tried3848/README)
+[ПР12](https://github.com/tried3848/tried3848)
 
 ### :arrow_forward: Something else :arrow_backward:
 
