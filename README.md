@@ -39,7 +39,7 @@
 
 [ПР12](https://github.com/tried3848/README)
 
-## :arrow_forward: Something else :arrow_backward:
+### :arrow_forward: Something else :arrow_backward:
 
 > [!TIP]
 **Пример работы с yaml**
