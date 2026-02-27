@@ -1,0 +1,54 @@
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+fun main() {
+    println("Zad 1")
+    val country = Country("Россия", 123.12)
+    println(country.getArea())
+    println()
+    println("Zad 2")
+    val cars = arrayOf(Car("Lada", "Granta", 2018), Car("Lada", "KAlina", 2012), Car("Lada", "Iskra", 2025))
+    for (i in cars)
+    {
+        println(i.getModel())
+    }
+    println()
+    println("Zad 3")
+    val book = Book("Робинзон Крузо", "Даниэль Дефо", 500)
+    println(book.getBookInfo())
+    println()
+    println("Zad 4")
+    val teacher = Teacher("Ирина", "Карпушева", 20)
+    println(teacher.getFullName())
+    teacher.getQualification()
+}
+
+
+class Book(private val title: String, private val author: String, private val pages: Int) {
+    fun getBookInfo() : String{ return  "Название: $title Автор: $author Количество страниц: $pages"}
+}
+
+class Car(val brand: String, private val model: String, val year: Int) {
+    fun getModel(): String
+    {
+        return  model }
+}
+
+class Country(val name: String, private val area: Double) {
+    fun getArea(): Double { return area }
+}
+
+
+class Teacher(private val name: String, private val surname: String, private val experience_year: Int ) : User(name, surname) {
+    fun getQualification()
+    {
+        if (experience_year<5) {
+            println("начинающий преподаватель")}
+        else if (experience_year in 5..9){
+            println("начинающий преподаватель")}
+        else { println("начинающий преподаватель")}
+    }
+}
+
+open class User(private val name: String, private val surname: String) {
+    fun getFullName(): String {return "$name $surname"}
+}
